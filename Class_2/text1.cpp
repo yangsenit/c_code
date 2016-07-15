@@ -7,6 +7,7 @@ struct node {
 	int data;
 	node *next;
 };
+/*
 void main()
 {
 	node *head=NULL;
@@ -25,7 +26,7 @@ void main()
 	}
 
 }
-
+*/
 /*
 9
 8
